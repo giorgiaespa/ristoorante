@@ -6,6 +6,8 @@ antipasti:
 
 
 primi piatti:
+Spaghetti alle vongole
+Ravioli cinesi al vapore
 
 
 secondi piatti:
