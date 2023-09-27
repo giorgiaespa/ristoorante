@@ -17,3 +17,5 @@ Scampi
 Pesce spada
 
 dessert:
+soufflé al cioccolato
+crostata di fragole
