@@ -9,6 +9,7 @@ primi piatti:
 
 
 secondi piatti:
-
+Scampi
+Pesce spada
 
 dessert:
